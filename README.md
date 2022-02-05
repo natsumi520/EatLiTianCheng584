@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatLiTianCheng584
 
 _🦌 网页小游戏 🥛_
 
